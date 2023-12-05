@@ -1,8 +1,24 @@
 {
   "dependencies": {
-    "inquirer": "^9.2.12"
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.12",
+    "svg.js": "^2.7.1"
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "name": "svg-maker",
+  "description": "Module 10 Challenge - SVG Logo Maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
