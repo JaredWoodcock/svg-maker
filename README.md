@@ -10,3 +10,5 @@ In this challenge, I created an SVG Logo Maker.
 <ul>When the user opens the 'logo.svg' file in a browser, then they are shown a 300x200 pixel image that matches the criteria they entered.</ul>
 
 GitHub Repository for the SVG Logo Maker: [https://jaredwoodcock.github.io/svg-maker/](https://github.com/JaredWoodcock/svg-maker)
+
+Walkthrough Video: [SVG Logo Maker Walkthrough.webm](https://github.com/JaredWoodcock/svg-maker/assets/144859311/f82a701a-6dd6-4bda-8f8b-cde43296526b)
